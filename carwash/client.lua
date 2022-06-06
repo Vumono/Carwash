@@ -1,5 +1,4 @@
---plans:
--- build in check when buying multiple carwashes
+
 
 if Config.framework == 'final' then
     ESX = nil
