@@ -30,9 +30,3 @@ client_scripts {
 	'locales/*.lua',
 	'client.lua'
 }
-
-escrow_ignore {
-	'config.lua', 
-	'locales/*.lua',
-	'main.sql'
-  }
