@@ -11,8 +11,8 @@ ENGINE=InnoDB
 ;
 
 --To add more carwash places you have to add one in the database and in the config
-INSERT INTO `owned_carwash` (`owner`, `price`, `location`, `balance`) VALUES ('0', '300', '1', NULL);
-INSERT INTO `owned_carwash` (`owner`, `price`, `location`, `balance`) VALUES ('0', '300', '2', NULL);
-INSERT INTO `owned_carwash` (`owner`, `price`, `location`, `balance`) VALUES ('0', '300', '3', NULL);
+INSERT INTO `owned_carwash` (`owner`, `price`, `location`, `balance`) VALUES ('0', '300', '1', '0', '100000);
+INSERT INTO `owned_carwash` (`owner`, `price`, `location`, `balance`) VALUES ('0', '300', '2', '0', '100000);
+INSERT INTO `owned_carwash` (`owner`, `price`, `location`, `balance`) VALUES ('0', '300', '3', '0', '100000');
 
 
